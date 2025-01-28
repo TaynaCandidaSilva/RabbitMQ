@@ -37,6 +37,6 @@ class RabbitMQPublisher:
 
 
 rabbit_mq_publisher = RabbitMQPublisher()
-rabbit_mq_publisher.send_message({ "msg": "OUtra mensagem de test" })
+rabbit_mq_publisher.send_message({ "msg": "Testando meu consumer" })
 
 
